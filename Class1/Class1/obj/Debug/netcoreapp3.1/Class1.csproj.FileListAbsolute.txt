@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.exe
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.deps.json
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.runtimeconfig.json
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.runtimeconfig.dev.json
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.dll
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\bin\Debug\netcoreapp3.1\Class1.pdb
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.AssemblyInfo.cs
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.dll
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.pdb
+C:\Users\User\Desktop\이수진\백준\Class1\Class1\obj\Debug\netcoreapp3.1\Class1.genruntimeconfig.cache
