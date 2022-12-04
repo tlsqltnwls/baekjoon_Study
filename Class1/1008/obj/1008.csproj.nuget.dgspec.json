@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\이수진\\백준\\Class1\\1008\\1008.csproj": {}
+    "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1008\\1008.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\이수진\\백준\\Class1\\1008\\1008.csproj": {
+    "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1008\\1008.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\이수진\\백준\\Class1\\1008\\1008.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1008\\1008.csproj",
         "projectName": "1008",
-        "projectPath": "C:\\Users\\User\\Desktop\\이수진\\백준\\Class1\\1008\\1008.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1008\\1008.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\이수진\\백준\\Class1\\1008\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1008\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

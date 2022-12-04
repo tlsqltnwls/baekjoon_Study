@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1001\\1001.csproj",
-      "projectName": "1001",
-      "projectPath": "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1001\\1001.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1152\\1152.csproj",
+      "projectName": "1152",
+      "projectPath": "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1152\\1152.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1001\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\이수진\\백준\\baekjoon_Study\\Class1\\1152\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
