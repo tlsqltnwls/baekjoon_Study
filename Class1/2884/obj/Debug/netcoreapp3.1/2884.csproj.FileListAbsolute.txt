@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\bin\Debug\netcoreapp3.1\2884.exe
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\bin\Debug\netcoreapp3.1\2884.deps.json
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\bin\Debug\netcoreapp3.1\2884.runtimeconfig.json
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\bin\Debug\netcoreapp3.1\2884.runtimeconfig.dev.json
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\bin\Debug\netcoreapp3.1\2884.dll
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\bin\Debug\netcoreapp3.1\2884.pdb
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\obj\Debug\netcoreapp3.1\2884.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\obj\Debug\netcoreapp3.1\2884.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\obj\Debug\netcoreapp3.1\2884.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\obj\Debug\netcoreapp3.1\2884.AssemblyInfo.cs
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\obj\Debug\netcoreapp3.1\2884.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\obj\Debug\netcoreapp3.1\2884.dll
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\obj\Debug\netcoreapp3.1\2884.pdb
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class1\2884\obj\Debug\netcoreapp3.1\2884.genruntimeconfig.cache
