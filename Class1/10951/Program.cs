@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace _10951
 {
@@ -6,12 +7,17 @@ namespace _10951
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10000; i++)
+            StringBuilder strB = new StringBuilder();
+            while(true)
             {
-                string[] num = Console.ReadLine().Split(' ');
-                Console.WriteLine(int.Parse(num[0]) + int.Parse(num[1]));
+                String num = Console.ReadLine();
+                
+                if (String.IsNullOrEmpty(num)) break;
+
+                strB.Append(((num[0] - 48) + (num[2] - 48)) + "\n");
             }
-            
+
+            Console.WriteLine(strB);
         }
     }
 }
