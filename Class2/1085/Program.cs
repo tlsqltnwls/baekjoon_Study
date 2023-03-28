@@ -12,8 +12,11 @@ namespace _1085
             int w = int.Parse(str[2]);
             int h = int.Parse(str[3]);
 
+            int x_ = x > (w - x) ? w - x : x;
+            int y_ = y > (h - y) ? h - y : y;
+            
 
-            if ()
+            Console.WriteLine(x_ > y_ ? y_ : x_);
         }
     }
 }

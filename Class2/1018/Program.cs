@@ -51,20 +51,12 @@ namespace _1018
                         //  0 2 4 .. 짝수 번째 & 체크랑 글이 같음
                         // 1 3 5 .. 홀수 번째 & 체크랑 글이 다름
                         // 좋은 상태!
-                        {
                             count_check++;
-                            Console.WriteLine("1. j: " + j + "   i: " + i + "   좋은 상태!   현재 count: " + count + "   count_check: " + count_check + "   stirng.Equlas: "+ string.Equals(check, s[M + i][N + j].ToString()));
-                            
-                        }
                         else
                         // 1 3 5 ... 홀수 번째 & 체크랑 글이 같음
                         // 0 2 4 .. 짝수 번째 & 체크랑 글이 다름
                         // 글자를 바꿔야 되는 상태!
-                        {
                             count++;
-                            Console.WriteLine("2. j: " + j + "   i: " + i + "   나쁜 상태!   현재 count: " + count + "   count_check: " + count_check + "   stirng.Equlas: " + string.Equals(check, s[M + i][N + j].ToString()));
-                            
-                        }
                     }
                     else // 세로가 1 3 5 .. 인 경우
                     {
