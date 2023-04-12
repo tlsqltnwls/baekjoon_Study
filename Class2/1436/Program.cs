@@ -11,54 +11,32 @@ namespace _1436
 
             int num = 666;
 
-            for (int i = 1; i < N; i++)
+            for (int i = 2; i <= N; i++)
             {
                 num += 1000;
-                Console.WriteLine("i: " + i + "  num: " + num);
 
                 if (Check_num(num / 10))
                 {
                     int num2 = num;
                     num2 = Change_num(num2);
 
-                    Console.WriteLine("============== Check_num(num/10) " +Check_num(num/10)+"===============");
-                    Console.WriteLine("i: "+i+"  num2: "+num2);
-
-                    for (i = i + 1; i < N; i++)
+                    for (i = i + 1; i <= N; i++)
                     {
-                        Console.WriteLine();
-                        Console.WriteLine("/////// i: " + i + " ////////");
-                        Console.WriteLine("Check_num(num2/10): " + Check_num(num2 / 10));
-                        Console.WriteLine("!Check_num(num2 / 10): " + !Check_num(num2 / 10));
-
-                        if (!Check_num(num2 / 10))
+                        if (!Check_num(num2 / 10) || !Check_num((num2 + 1) / 10))
                         {
-                            num2 = num;
-                            Console.WriteLine("----------------------------------");
-                            Console.WriteLine("!! break !!  num2: " + num2 + "   num: " + num);
+                            num2 = num + 1000;
                             break;
                         }
-                        else
-                        {
-                            num2 += 1;
-                            Console.WriteLine("num2 ++ -> num2: " + num2);
-                        }
-
-                        Console.WriteLine("////////////////// num2: "+num2+" ////////////////");
-                        Console.WriteLine();
+                        else num2 += 1;
                     }
-
-                    Console.WriteLine("============== for문 끝!! ==============");
                     num = num2;
-                    Console.WriteLine();
                 }
-
             }
-
             Console.WriteLine(num);
         }
 
-        static bool Check_num(int num)
+
+        static bool Check_num(int num) // 666이 존재하는지 확인용 함수
         {
             string num_str = num.ToString();
             
@@ -66,7 +44,7 @@ namespace _1436
             return check;
         }
 
-        static int Change_num(int num)
+        static int Change_num(int num) // 앞에 있는 666 이후의 수를 모두 0으로 바꾸는 함수
         {
             string num_str = num.ToString();
             char[] num_char = num_str.ToCharArray();
