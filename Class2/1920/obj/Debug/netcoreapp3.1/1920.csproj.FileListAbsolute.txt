@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\bin\Debug\netcoreapp3.1\1920.exe
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\bin\Debug\netcoreapp3.1\1920.deps.json
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\bin\Debug\netcoreapp3.1\1920.runtimeconfig.json
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\bin\Debug\netcoreapp3.1\1920.runtimeconfig.dev.json
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\bin\Debug\netcoreapp3.1\1920.dll
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\bin\Debug\netcoreapp3.1\1920.pdb
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\obj\Debug\netcoreapp3.1\1920.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\obj\Debug\netcoreapp3.1\1920.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\obj\Debug\netcoreapp3.1\1920.AssemblyInfo.cs
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\obj\Debug\netcoreapp3.1\1920.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\obj\Debug\netcoreapp3.1\1920.dll
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\obj\Debug\netcoreapp3.1\1920.pdb
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\obj\Debug\netcoreapp3.1\1920.genruntimeconfig.cache
+C:\Users\User\Desktop\이수진\백준\baekjoon_Study\Class2\1920\obj\Debug\netcoreapp3.1\1920.csproj.AssemblyReference.cache
